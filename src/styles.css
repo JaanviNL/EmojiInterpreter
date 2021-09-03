@@ -1,0 +1,38 @@
+* {
+  font-family: cursive;
+  text-align: center;
+  background-color: aqua;
+}
+
+.header {
+  background-color: burlywood;
+  font-style: italic;
+  padding: 1rem;
+  border-radius: 4rem;
+}
+
+.input-txt {
+  padding: 0.5rem 4rem;
+  background-color: whitesmoke;
+}
+
+.meaning {
+  border: 1px hidden black;
+  margin: 1rem;
+  padding: 1.5rem;
+  font-size: larger;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 1.5rem;
+  max-width: 40%;
+  margin: auto;
+  box-sizing: border-box;
+  padding: 1rem;
+}
+.inline-list {
+  padding: 1rem 2rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
